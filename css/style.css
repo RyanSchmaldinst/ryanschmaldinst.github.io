@@ -1,5 +1,7 @@
-.header-nav{
-	list-style-type: none
+
+nav{
+  position: fixed;
+  display: block;
 }
 
 body{
