@@ -1,9 +1,13 @@
+body{
+  align-content: center;
+}
 
 nav{
   position: fixed;
   display: block;
+  list-style-type: none;
 }
 
-body{
-  align-content: center;
+ul {
+  display: inline-block;
 }
