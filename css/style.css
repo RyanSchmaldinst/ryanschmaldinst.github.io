@@ -88,3 +88,8 @@ img:hover {
   border: none;
   background: none;
 }
+
+#priceBoxes > img{
+  width: 20%;
+  height: 20%;
+}
