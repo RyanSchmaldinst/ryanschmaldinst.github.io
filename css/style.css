@@ -87,6 +87,8 @@ img:hover {
   background-color: none;
   border: none;
   background: none;
+  width: 20%;
+  height: 20%;
 }
 
 #priceBoxes > img{
