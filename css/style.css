@@ -99,5 +99,6 @@ img:hover {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  vertical-align: bottom;
 
 }
