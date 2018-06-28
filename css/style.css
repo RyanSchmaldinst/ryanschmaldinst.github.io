@@ -87,6 +87,7 @@ img:hover {
   background-color: none;
   border: none;
   background: none;
+  margin: none;
   width: 20%;
   height: 20%;
 }
