@@ -90,7 +90,6 @@ img:hover {
   margin: none;
 }
 
-#priceBoxes > img{
-  width: 20%;
-  height: 20%;
+.pickImg {
+  width: 50%;
 }
