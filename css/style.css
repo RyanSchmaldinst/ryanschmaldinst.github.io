@@ -85,7 +85,8 @@ img:hover {
 
 .pickButton{
   background-color: none;
-  border: none;
+  border: 2px;
+  border-color: white;
   background: none;
   margin: none;
   padding: 0px;
