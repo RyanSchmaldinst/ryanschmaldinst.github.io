@@ -93,3 +93,10 @@ img:hover {
 .pickImg {
   width: 50%;
 }
+
+#priceBoxes{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
