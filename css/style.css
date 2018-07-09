@@ -125,5 +125,6 @@ button:focus {
   flex-wrap: wrap;
   justify-content: center;
   vertical-align: bottom;
+  margin: 25px;
 
 }
