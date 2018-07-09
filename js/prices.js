@@ -16,6 +16,6 @@ $(document).on("click",".pickButton", function () {
   {
     totalValue -= thisConvertedValue
     $(this).attr('clicked', 'false');
-    console.log($(this) + ' ' + $(this).attr('clicked'));
+    console.log(totalValue);
   }
 });
