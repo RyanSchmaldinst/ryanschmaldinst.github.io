@@ -4,7 +4,7 @@ $(document).on("click",".pickButton", function () {
   var thisValue = $(this).attr('value');
   var thisConvertedValue = parseInt(thisValue);
 
-  $(this).toggleClass('transform-active');
+  $(this).children().toggleClass('transform-active');
 
   if ($(this).attr('clicked') == 'false')
   {
