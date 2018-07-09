@@ -96,6 +96,10 @@ img:hover {
   width: 45%;
 }
 
+button:focus {
+  outline:0;
+}
+
 #priceBoxes{
   display: flex;
   flex-direction: row;
