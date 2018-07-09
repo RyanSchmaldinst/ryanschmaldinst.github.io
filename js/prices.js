@@ -1,6 +1,9 @@
 var totalValue = 0;
 
 $(document).on("click",".pickButton", function () {
+
+  $('.transform').toggleClass('transform-active');
+
   if ($(this).attr('clicked') == 'false')
   {
     $(this).attr('clicked', 'true')
